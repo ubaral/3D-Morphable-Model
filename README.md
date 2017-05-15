@@ -1,4 +1,4 @@
-# 3D-Morphable-Model
+# 3D-Morphable-Model (Write Up)
 Project implementing features from the following paper: http://www-inst.eecs.berkeley.edu/~cs194-26/fa14/Papers/BlanzVetter99.pdf
 
 The paper describes a tecnique for creating morphable 3D face models from a limited dataset of 3d facial scans of real individuals. The dataset I used came from the Basel Face Model http://faces.cs.unibas.ch/bfm/main.php?nav=1-1-0&id=details as described in the link.
